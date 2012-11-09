@@ -110,7 +110,11 @@ h4{font-size:1.25em;font-weight:normal;margin-bottom:.7em}
 h5{font-size:1em;font-weight:normal;margin-bottom:.3em}
 p{margin-bottom:.5em}
 ul,ol{margin-bottom:0px}
-li{margin-left:0px}
+li{
+	margin-left:0px;
+	list-style-image: url('../assets/icons/icon-play.png');
+	
+}
 a{text-decoration:none;color:#f0f0f0}
 a:hover{color:#979797;text-decoration:none}
 a:active{color:#575757}
