@@ -306,10 +306,9 @@ body a:active,body a.expand:active{color:black}.bg-1 a{color:#5cffb0}
 header{position:fixed;z-index:1000;bottom:0;right:0}
 nav{padding:5px;background-color:#000}
 nav li{float:left;margin-right:10px}
-#logo-small{background:transparent url(../assets/Design-Week-Portland-Logo-Small-d4ee77714b4b17260cd3be8ce4b868f1.png) no-repeat 0 0;display:none;width:82px;height:76px;text-indent:-9999px;text-transform:capitalize;font-size:10px;margin:0 auto;overflow:hidden;position:fixed;top:0;right:15px}
+
 #logo-small:hover{opacity:.8}
 #logo-small:active{opacity:1}
-.retina #logo-small{background-image:url(../assets/Design-Week-Portland-Logo-Small-x2-23a79d70c71f2da74c7839fb79997ce0.png);width:82pt;height:76pt;background-size:82pt 76pt}
 #sub-nav{display:none;position:fixed;top:0;left:0;font-size:.8em;margin:12px;letter-spacing:.1em;text-transform:uppercase}
 #sub-nav .title{padding:0.4em 0.5em 0.2em}
 #sub-nav{font-weight:normal}
@@ -379,9 +378,8 @@ a.play-button:active{background-position:0 -250px}
 
 
 #logo-wrap{position:absolute;top:0;z-index:20;width:100%}
-#logo{background:transparent url(../assets/Design-Week-Portland-Logo-dde390fd2141c7c1b7f067b975074959.png) no-repeat 0 0;display:block;width:375px;height:108px;text-indent:-9999px;text-transform:capitalize;font-size:10px;margin:0 auto;overflow:hidden}
 #logo:hover{background-position:0 -108px}
-.retina #logo{background-image:url(../assets/Design-Week-Portland-Logo-x2-a74a782aa3c7128fc1465b871307e8a9.png);background-size:375pt 216pt;width:375pt;height:108pt}
+
 .retina #logo:hover{background-position:0 -108pt}
 .caption{position:absolute;bottom:20px;right:20px}
 #video-wrap{display:none;position:fixed;top:0;left:0;width:100%;height:100%;background-color:rgba(0,0,0,0.85);z-index:9999}
